@@ -1,2 +1,2 @@
-# electrum
+# Electrum
 Electrum Bitcoin Wallet
